@@ -1,5 +1,5 @@
 # Spending App
-* Website (https://spending-react-app.netlify.app/)
+* Website ( https://spending-react-app.netlify.app/ )
 * Taught by KongRukSiam
 ## Feature
 * Can enter item name
