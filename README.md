@@ -1,5 +1,5 @@
 # Spending App
-* Website https://jocular-wisp-61f5a7.netlify.app/
+* Website [https://jocular-wisp-61f5a7.netlify.app/](https://spending-react-app.netlify.app/)
 * Taught by KongRukSiam
 ## Feature
 * Can enter item name
